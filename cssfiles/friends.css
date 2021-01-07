@@ -1,0 +1,97 @@
+  #body{
+    background-color: #acc797;
+    font-family: serif;
+  }
+
+  #nav{
+    font-family: serif;
+  }
+
+  #nb{
+    font-size: 20px;
+    margin-left: 20px;
+  }
+
+  #btn1{
+    color: white;
+    padding-right: 10px;
+    padding-left: 10px;
+    font-size: 20px;
+    border:none;
+    background-color: lightgreen;
+    margin-right: 20px;
+  }
+
+  #btn1:active {
+  background-color: green;
+  }
+
+  #btn2:active {
+  background-color: red;
+  }
+
+  #btn2{
+    color: white;
+    padding-right: 10px;
+    padding-left: 10px;
+    font-size: 20px;
+    border:none;
+    background-color: lightgrey;
+    margin-right: 20px;
+  }
+
+  #cf{
+    padding-top: 50px;
+  }
+
+  #row{
+    margin-right: 20px;
+    margin-left: 20px;
+  }
+
+  h3{
+    color: green;
+    text-align: center;
+  }
+  
+  #un{
+    margin-top: 10px;
+    font-size: 15px;
+    font-weight: bolder;
+  } 
+
+  #fr{
+    margin-top: 10px;
+    font-size: 15px;
+  }
+
+  #btn3{
+    margin: 8px 8px 8px 8px;
+    color:white;
+    font-size: 10px;
+    background-color:lightgreen;
+  }
+
+
+  #btn4{
+    padding: 0px 15px 0px 15px;
+    margin: 8px 8px 8px 8px;
+    color:white;
+    font-size: 15px;
+    background-color:lightgreen;
+  }
+
+  #btn5{
+    margin: 8px 8px 8px 8px;
+    padding: 0px 15px 0px 15px;
+    color:white;
+    font-size: 15px;
+    background-color:lightgrey;
+  }
+
+
+
+
+
+  
+  

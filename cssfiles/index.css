@@ -1,0 +1,43 @@
+body{
+   background-color: #acc797;
+	}
+
+#message {
+  display:none;
+  position: relative;
+  padding: 30px;
+}
+
+#message p {
+  padding: 0px 35px;
+  font-size: 12px;
+}
+
+
+.valid {
+  color: green;
+}
+
+.valid:before {
+  position: relative;
+  left: -30px;
+  content: "✔";
+}
+
+
+.invalid {
+  color: red;
+}
+
+.invalid:before {
+  position: relative;
+  left: -30px;
+  content: "✖";
+}
+
+
+ #psw + .fa {
+   cursor: pointer;
+   pointer-events: all;
+   font-size: 20px;
+ }
